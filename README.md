@@ -58,6 +58,8 @@ Kumpulan data yang akan Anda gunakan dalam laboratorium ini berisi 15.000 baris 
 | Department | str | Departemen karyawan |
 | salary | str | Gaji karyawan (dalam dolar Amerika Serikat) |
 
+## Result
+
 ![Confusion Matrix](https://github.com/Fazasn/Sailfort-Motors-Human-Resource-Project/assets/120705804/69d2118e-85f2-4637-a062-f402e29c0ad0)
 
 ![Screenshot 2023-11-10 170932](https://github.com/Fazasn/Sailfort-Motors-Human-Resource-Project/assets/120705804/676f709a-00f9-4c13-bdae-5c3329111610)
